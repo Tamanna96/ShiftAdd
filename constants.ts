@@ -1,0 +1,1 @@
+export const THIRTHY_MILLISECONDS = 30000;
